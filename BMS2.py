@@ -770,7 +770,7 @@ class Ui_BMS(object):
         BMS.setCentralWidget(self.centralwidget)
 
         self.retranslateUi(BMS)
-        self.stackedWidget.setCurrentIndex(3)
+        self.stackedWidget.setCurrentIndex(0)
         QtCore.QMetaObject.connectSlotsByName(BMS)
 
     def retranslateUi(self, BMS):

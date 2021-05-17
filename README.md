@@ -3,7 +3,7 @@ BAKERY MANAGMENT SYSTEM (BMS) is a bakery pos system with inventory system, bill
 FIRST INSTALL LIBARY REPORTLAB THEN USE THE CODE 
 by writing pip install reportlab
 The ReportLab Toolkit. An Open Source Python library for generating PDFs and graphics.
-
+CHECK VIDEO FOR TUTORIAL BMS.mp4
 USERNAME : admin
 PASSWORD : admin123
 
